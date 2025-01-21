@@ -43,8 +43,6 @@ pip install -r requirements.txt
 |-- multimodal_sentiment_analysis.ipynb # 多模态情感分析模型训练及测试代码
 |-- text_only_model.ipynb        # 仅文本模型训练代码
 |
-|-- model.pth                    # 训练好的多模态融合模型权重
-|-- image_only_model.pth         # 仅图像模型训练好的模型权重
 |
 |-- result.txt                   # 模型预测结果
 |-- requirements.txt             # 环境依赖文件
